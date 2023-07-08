@@ -43,4 +43,27 @@ pre{
     pre{max-width: 100%;overflow-x: auto;}
 }
 
-
+/* 
+.copy-button {
+    padding: 6px 10px;
+    font-size: 14px;
+    border: none;
+    background-color: #f0f0f0;
+    cursor: pointer;
+    margin-bottom: 10px;
+  }
+  
+  .copy-button i {
+    margin-right: 5px;
+  }
+  
+  .code-block {
+    position: relative;
+  }
+  
+  .copy-button {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+  } */
+   
